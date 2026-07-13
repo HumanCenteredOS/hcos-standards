@@ -1,2 +1,2 @@
 # hcos-standards
-The core principles of Human-Centered Operating Systems™.
+Practical standards for applying HCOS™ across people, organizations, and AI.
